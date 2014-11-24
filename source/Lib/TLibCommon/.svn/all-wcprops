@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon
+END
+ContextModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/ContextModel.cpp
+END
+TComCodingStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComCodingStatistics.h
+END
+TComMv.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComMv.h
+END
+TComHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComHash.h
+END
+TComInterpolationFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComInterpolationFilter.h
+END
+ContextModel3DBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/ContextModel3DBuffer.cpp
+END
+TComDataCU.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComDataCU.h
+END
+Debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/Debug.h
+END
+TComWeightPrediction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComWeightPrediction.cpp
+END
+TComRectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComRectangle.h
+END
+TComList.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComList.h
+END
+TComPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComPattern.h
+END
+TComChromaFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComChromaFormat.cpp
+END
+AccessUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/AccessUnit.h
+END
+TComHash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComHash.cpp
+END
+TComPicYuvMD5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComPicYuvMD5.cpp
+END
+ContextModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/ContextModel.h
+END
+TComTU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComTU.cpp
+END
+TComBitStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComBitStream.cpp
+END
+TComInterpolationFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComInterpolationFilter.cpp
+END
+TComTrQuant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComTrQuant.cpp
+END
+TComPrediction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComPrediction.cpp
+END
+TComDataCU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComDataCU.cpp
+END
+ContextTables.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/ContextTables.h
+END
+TComRom.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComRom.h
+END
+SEI.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/SEI.h
+END
+Debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/Debug.cpp
+END
+TComSlice.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComSlice.h
+END
+TComSampleAdaptiveOffset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComSampleAdaptiveOffset.cpp
+END
+TComWeightPrediction.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComWeightPrediction.h
+END
+TComPattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComPattern.cpp
+END
+TypeDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TypeDef.h
+END
+TComCABACTables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComCABACTables.cpp
+END
+TComPicYuv.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComPicYuv.h
+END
+TComMotionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComMotionInfo.h
+END
+TComChromaFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComChromaFormat.h
+END
+TComYuv.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComYuv.h
+END
+CommonDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/CommonDef.h
+END
+TComRdCostWeightPrediction.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComRdCostWeightPrediction.h
+END
+TComTU.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComTU.h
+END
+SEI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/SEI.cpp
+END
+TComRom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComRom.cpp
+END
+TComRdCost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComRdCost.cpp
+END
+TComBitStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComBitStream.h
+END
+TComSlice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComSlice.cpp
+END
+TComTrQuant.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComTrQuant.h
+END
+TComPicSym.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComPicSym.cpp
+END
+TComPrediction.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComPrediction.h
+END
+TComSampleAdaptiveOffset.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComSampleAdaptiveOffset.h
+END
+TComPicYuv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComPicYuv.cpp
+END
+TComPic.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComPic.h
+END
+TComMotionInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComMotionInfo.cpp
+END
+TComYuv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComYuv.cpp
+END
+TComBitCounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComBitCounter.h
+END
+TComLoopFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComLoopFilter.h
+END
+TComRdCostWeightPrediction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComRdCostWeightPrediction.cpp
+END
+TComCABACTables.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComCABACTables.h
+END
+NAL.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/NAL.h
+END
+TComRdCost.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComRdCost.h
+END
+ContextModel3DBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/ContextModel3DBuffer.h
+END
+TComPicSym.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComPicSym.h
+END
+TComPic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComPic.cpp
+END
+TComLoopFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibCommon/TComLoopFilter.cpp
+END

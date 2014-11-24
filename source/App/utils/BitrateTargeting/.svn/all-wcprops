@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting
+END
+encode.shl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/encode.shl
+END
+RuntimeError.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/RuntimeError.h
+END
+encodeCommand.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/encodeCommand.sh
+END
+ExtractBitrates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/ExtractBitrates.cpp
+END
+GuessLambdaModifiers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/GuessLambdaModifiers.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/makefile
+END
+targetBitrates.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/targetBitrates.sh
+END
+ExtractBitrates.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/ExtractBitrates.h
+END
+ExtractBitratesMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/ExtractBitratesMain.cpp
+END
+GuessLambdaModifiers.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/GuessLambdaModifiers.h
+END
+GuessLambdaModifiersMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/GuessLambdaModifiersMain.cpp
+END
+QuickStartGuide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/App/utils/BitrateTargeting/QuickStartGuide.pdf
+END

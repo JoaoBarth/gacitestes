@@ -1,0 +1,33 @@
+objects/TComRdCost.d.o: \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCost.cpp \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCost.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPattern.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComMv.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComSlice.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComList.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/Debug.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCostWeightPrediction.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComTU.h
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCost.cpp :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCost.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPattern.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComMv.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComSlice.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComList.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/Debug.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCostWeightPrediction.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComTU.h :

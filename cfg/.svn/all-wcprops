@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg
+END
+encoder_intra_main10.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_intra_main10.cfg
+END
+encoder_intra_main_rext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_intra_main_rext.cfg
+END
+encoder_lowdelay_main.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_lowdelay_main.cfg
+END
+encoder_lowdelay_main10.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_lowdelay_main10.cfg
+END
+encoder_lowdelay_main_rext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_lowdelay_main_rext.cfg
+END
+encoder_randomaccess_main_scc.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_randomaccess_main_scc.cfg
+END
+encoder_lowdelay_P_main.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_lowdelay_P_main.cfg
+END
+encoder_lowdelay_P_main10.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_lowdelay_P_main10.cfg
+END
+encoder_randomaccess_main.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_randomaccess_main.cfg
+END
+encoder_randomaccess_main10.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_randomaccess_main10.cfg
+END
+encoder_intra_high_throughput_rext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_intra_high_throughput_rext.cfg
+END
+encoder_randomaccess_main_rext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_randomaccess_main_rext.cfg
+END
+encoder_intra_main_scc.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_intra_main_scc.cfg
+END
+encoder_lowdelay_main_scc.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_lowdelay_main_scc.cfg
+END
+encoder_intra_main.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/cfg/encoder_intra_main.cfg
+END

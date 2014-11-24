@@ -1,0 +1,37 @@
+10
+
+dir
+4234
+https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware/tags/HM-16.2+SCM-3.0rc1/source/App
+https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware
+
+
+
+2014-11-10T23:33:06.271524Z
+4216
+rapaka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ce97f6c2-8f86-0410-b44d-af84b13ec34f
+
+utils
+dir
+
+TAppEncoder
+dir
+
+TAppDecoder
+dir
+

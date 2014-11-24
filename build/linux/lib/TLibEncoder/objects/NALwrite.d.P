@@ -1,0 +1,15 @@
+objects/NALwrite.d.o: \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :

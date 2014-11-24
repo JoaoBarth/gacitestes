@@ -1,0 +1,23 @@
+objects/TAppDecCfg.d.o: \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/App/TAppDecoder/TAppDecCfg.cpp \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/App/TAppDecoder/TAppDecCfg.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TAppCommon/program_options_lite.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/App/TAppDecoder/TAppDecCfg.cpp :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/App/TAppDecoder/TAppDecCfg.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TAppCommon/program_options_lite.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/joaobarth/HM-16.2+SCM-3.0rc1/build/linux/app/TAppDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h :

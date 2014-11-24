@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibVideoIO
+END
+TVideoIOYuv.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibVideoIO/TVideoIOYuv.h
+END
+TVideoIOYuv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/svn_HEVCSoftware/!svn/ver/4234/tags/HM-16.2+SCM-3.0rc1/source/Lib/TLibVideoIO/TVideoIOYuv.cpp
+END
