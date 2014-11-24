@@ -13,6 +13,8 @@ extern float   clockTotalFastIBC;
 extern float   clockTotalHashME;
 extern float   clockTotalME;
 extern float   clockTotalIntra;
+extern float   clockFullSearchIBC;
+extern float   clockSearchIBC;
 
 
 ////

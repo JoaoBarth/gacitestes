@@ -110,6 +110,10 @@ int main(int argc, char* argv[])
   printf("Tempo total do Fast IBC: %12.3f sec.\n",clockTotalFastIBC/CLOCKS_PER_SEC);
   printf("Tempo total da ME: %12.3f sec.\n",clockTotalME/CLOCKS_PER_SEC);
   printf("Tempo total Intra normal: %12.3f sec.\n",clockTotalIntra/CLOCKS_PER_SEC);
+  
+  
+  printf("Tempo clock full search IBC: %12.3f sec.\n",clockFullSearchIBC/CLOCKS_PER_SEC);
+  printf("Tempo search IBC: %12.3f sec.\n",clockSearchIBC/CLOCKS_PER_SEC);
   // destroy application encoder class
   cTAppEncTop.destroy();
 

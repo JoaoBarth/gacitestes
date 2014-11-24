@@ -35,6 +35,9 @@
  \brief    encoder search class
  */
 
+
+
+#include <sys/time.h>
 #include "TLibCommon/TypeDef.h"
 #include "TLibCommon/TComRom.h"
 #include "TLibCommon/TComMotionInfo.h"
@@ -44,7 +47,13 @@
 #include <math.h>
 #include <limits>
 
+// inclui o arquivo que contem o extern
+#include "/home/joaobarth/HM-16.2+SCM-3.0rc1/source/App/TAppEncoder/encmain.h"//minhas variáveis globais
+//
 
+clock_t clkx;
+float clockFullSearchIBC = 0;
+float clockSearchIBC = 0;
 //! \ingroup TLibEncoder
 //! \{
 
@@ -6085,6 +6094,7 @@ Void TEncSearch::xIntraPatternSearch( TComDataCU  *pcCU,
 
   if (m_pcEncCfg->getUseIntraBlockCopyFastSearch())
   {
+    clkx = clock();
     setDistParamComp(COMPONENT_Y);
     m_cDistParam.bitDepth  = g_bitDepth[CHANNEL_TYPE_LUMA];
     m_cDistParam.iRows     = 4;//to calculate the sad line by line;
@@ -6651,10 +6661,14 @@ Void TEncSearch::xIntraPatternSearch( TComDataCU  *pcCU,
           }
         }
       }
-    }
+    }  
+   
+        clkx = clock() - clkx;
+        clockSearchIBC += clkx;
   }
   else //full search
   {
+      clkx = clock();
     setDistParamComp(COMPONENT_Y);
     piRefY += (iSrchRngVerBottom * iRefStride);
     Int iPicWidth = pcCU->getSlice()->getSPS()->getPicWidthInLumaSamples();
@@ -6717,6 +6731,8 @@ Void TEncSearch::xIntraPatternSearch( TComDataCU  *pcCU,
 
       piRefY -= iRefStride;
     }
+        clkx = clock() - clkx;
+        clockFullSearchIBC += clkx;
   }
 
   iBestCandIdx = xIntraBCSearchMVChromaRefine(pcCU, iRoiWidth, iRoiHeight, cuPelX, cuPelY, uiSadBestCand, cMVCand, uiPartOffset);
